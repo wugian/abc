@@ -1,0 +1,9 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1430287764000 110747 e9b63380f3a242dbdbf103a2355ad7e43bad17cb C:\workspace-gbk\imagepipeline-okhttp\libs\library-2.4.0.jar
+1430287764000 110747 e9b63380f3a242dbdbf103a2355ad7e43bad17cb C:\workspace-gbk\imagepipeline\libs\library-2.4.0.jar
+1430289010000 762542 2c91c949a45a21cdecf26e03951e46c7beec9ad8 C:\workspace-gbk\imagepipeline\libs\android-support-v4.jar
+1430289010000 762542 2c91c949a45a21cdecf26e03951e46c7beec9ad8 C:\workspace-gbk\imagepipeline-okhttp\libs\android-support-v4.jar
+1430287764000 47225 129874135e6081269ace2312092031558865de12 C:\workspace-gbk\imagepipeline\libs\bolts-android-1.1.4.jar
+1430287764000 47225 129874135e6081269ace2312092031558865de12 C:\workspace-gbk\imagepipeline-okhttp\libs\bolts-android-1.1.4.jar
