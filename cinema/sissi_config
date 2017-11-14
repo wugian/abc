@@ -1,0 +1,11 @@
+{
+"code": 0,
+"msg": "",
+"data":{
+"verCode": "2",
+"verName": "v2",
+"description": "1.优化电影扫描搜索功能#2.已知问题修复#3.广告方案优化及加入#4.提示文字改进",
+"appUrl": "http://qnbar.oss-cn-hangzhou.aliyuncs.com/fbms/apks/cinema-47/ZaiXian-47-08-22~11.36.59.apk",
+"forceType": false
+}
+}
